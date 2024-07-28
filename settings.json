@@ -1,0 +1,11 @@
+{
+    "*.json": {
+        "commenttype": "// %s"
+    },
+    "colorcolumn": 80,
+    "colorscheme": "solarized-tc",
+    "ruler": false,
+    "softwrap": true,
+    "statusformatr": "",
+    "tabstospaces": true
+}

@@ -4,12 +4,11 @@
     "Alt-s": "command-edit:replaceall ",
     "Alt-|": "command-edit:textfilter ",
     "Ctrl-Delete": "DeleteWordRight",
-    "Ctrl-z": "Suspend",
-    "CtrlBackslash": "Undo",
+    "CtrlBackslash": "Suspend",
     "CtrlUnderscore": "lua:comment.comment",
     "OldBackspace": "DeleteWordLeft",
     "command": {
         "Ctrl-Delete": "DeleteWordRight",
-        "OldBackspace": "DeleteWordLeft"
+        "OldBackspace": "DeleteWordLeft",
     }
 }

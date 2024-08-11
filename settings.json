@@ -1,8 +1,9 @@
 {
     "colorcolumn": 80,
-    "colorscheme": "solarized-tc",
+    "colorscheme": "simple",
     "ruler": false,
     "softwrap": true,
     "statusformatr": "",
+    "syntax": false,
     "tabstospaces": true
 }
